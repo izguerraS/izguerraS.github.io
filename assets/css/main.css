@@ -1273,9 +1273,9 @@ input, select, textarea {
 				position: absolute;
 				top: calc(-3.5rem - 1px);
 				left: calc(50% - 1px);
-				width: 1px;
+				width: 5px;
 				height: calc(3.5rem + 1px);
-				background: #ffffff;
+				background: #B3DDF2;
 			}
 
 		#header > :first-child {
@@ -1346,7 +1346,7 @@ input, select, textarea {
 
 			#header nav ul li {
 				padding-left: 0;
-				border-left: solid 1px #ffffff;
+				border-left: solid 5px #B3DDF2;
 			}
 
 				#header nav ul li:first-child {
