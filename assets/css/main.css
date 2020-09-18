@@ -1273,7 +1273,7 @@ input, select, textarea {
 				position: absolute;
 				top: calc(-3.5rem - 1px);
 				left: calc(50% - 1px);
-				width: 5px;
+				width: 3px;
 				height: calc(3.5rem + 1px);
 				background: #B3DDF2;
 			}
@@ -1290,7 +1290,7 @@ input, select, textarea {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 5px #B3DDF2;
+			border: solid 3px #B3DDF2;
 			border-radius: 100%;
 		}
 
@@ -1301,8 +1301,8 @@ input, select, textarea {
 		#header .content {
 			border-style: solid;
 			border-color: #B3DDF2;
-			border-top-width: 5px;
-			border-bottom-width: 5px;
+			border-top-width: 3px;
+			border-bottom-width: 3px;
 			max-width: 100%;
 		}
 
@@ -1340,13 +1340,13 @@ input, select, textarea {
 			margin-bottom: 0;
 			list-style: none;
 			padding-left: 0;
-			border: solid 5px #B3DDF2;
+			border: solid 3px #B3DDF2;
 			border-radius: 4px;
 		}
 
 			#header nav ul li {
 				padding-left: 0;
-				border-left: solid 5px #B3DDF2;
+				border-left: solid 3px #B3DDF2;
 			}
 
 				#header nav ul li:first-child {
@@ -1380,7 +1380,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			left: calc(50% - 1px);
-			width: 5px;
+			width: 3px;
 			height: 100%;
 			background: #B3DDF2;
 		}
